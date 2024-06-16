@@ -9,7 +9,6 @@
     "start-server": "cd backend && node src/server.js",
     "install-client": "cd frontend && npm install",
     "build-client": "cd frontend && npm run build",
-    "build": "your_build_command_here",
     "start-client": "cd frontend && npm run start"
   },
   "repository": {
