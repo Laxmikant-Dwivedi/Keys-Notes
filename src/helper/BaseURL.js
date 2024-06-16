@@ -1,1 +1,0 @@
-export const BaseURL = "https://cyber-note-backend.onrender.com"
